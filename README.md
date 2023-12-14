@@ -1,9 +1,4 @@
 # QUESTION
-Build a simple loop, that print numbers to the console. from 0 to the lenght of an array.
-Build a simple loop, inside a function, that takes an array and prints the value of the array to the console.
-Build a simple function that displays the following.
-console.log('THis is a text inside a function block')
-Display a simple message outside a function that says, This is a text outside a function block
 Read and summarize the following Articles.
 https://www.w3schools.com/js/js_array_methods.asp
 https://www.w3schools.com/js/js_functions.asp
@@ -68,24 +63,24 @@ The content covers various array manipulation methods, their usage, and examples
 
 A JavaScript function is a block of code designed to perform a specific task.
 It is executed when invoked or called by an event, JavaScript code, or automatically (self-invoked).
-Function Syntax:
+- Function Syntax:
 
 Defined using the function keyword, followed by a name and parentheses.
 Function names follow variable naming rules.
-Parameters (inputs) are listed inside the parentheses, and the code to be executed is enclosed in curly brackets.
-Function Invocation:
+*Parameters* (inputs) are listed inside the parentheses, and the code to be executed is enclosed in curly brackets.
+- Function Invocation:
 
 Functions are executed when called by an event, JavaScript code, or automatically.
 The content hints at learning more about function invocation later in the tutorial.
-Function Return:
+- Function Return:
 
 When a *return* statement is encountered, the function stops executing.
 The return value is sent back to the caller, allowing computation and reuse of results.
-Benefits of Functions:
+- Benefits of Functions:
 
 Functions enable code reuse and writing modular, reusable code.
 The same code can be used with different arguments to produce different results.
-The () Operator:
+- The () Operator:
 
 Invokes (calls) the function, passing arguments if needed.
 Examples demonstrate correct and incorrect usage.
@@ -97,4 +92,4 @@ Functions can be used directly as variable values in expressions and assignments
 Variables declared within a function are local to that function.
 They can only be accessed within the function, allowing the use of the same variable names in different functions.
 Local variables are created when the function starts and are deleted when the function completes.
-The content emphasizes the versatility and utility of functions in JavaScript, introducing syntax, invocation, return values, and local variables. It also provides examples to illustrate these concepts.
+- The content emphasizes the versatility and utility of functions in JavaScript, introducing syntax, invocation, return values, and local variables. It also provides examples to illustrate these concepts.
